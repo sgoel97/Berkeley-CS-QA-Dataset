@@ -1,0 +1,5 @@
+Course Number: EECS 16A
+
+Course Title: Designing Information Devices and Systems I
+
+Course Website: https://eecs16a.org/

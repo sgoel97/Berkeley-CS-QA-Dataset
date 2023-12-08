@@ -1,0 +1,5 @@
+Course Number: CS 61A
+
+Course Title: Structure and Interpretation of Computer Programs
+
+Course Website: https://cs61a.org/

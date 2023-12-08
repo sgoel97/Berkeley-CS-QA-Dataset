@@ -1,0 +1,470 @@
+<table border="3" class="table table-bordered table-condensed table-striped table-hover" style="width: 50%;">
+      <thead>
+        <tr>
+          <th style="background: #91c8d9" scope="col" class="col-md-1 center">Semester</th>
+          <th style="background: #91c8d9" scope="col" class="col-md-2 center">Midterm 1</th>
+          <th style="background: #91c8d9" scope="col" class="col-md-2 center">Midterm 2</th>
+          <th style="background: #91c8d9" scope="col" class="col-md-2 center">Final</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="center"> fa23 </td>
+          <td class="center">
+            <a href="student-resources/exams/fa23_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa23_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa23_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa23_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+
+
+
+            N/A
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> sp23 </td>
+          <td class="center">
+            <a href="student-resources/exams/sp23_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp23_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/sp23_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp23_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+
+
+
+            N/A
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> fa22 </td>
+          <td class="center">
+            <a href="student-resources/exams/fa22_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa22_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa22_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa22_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa22_final_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa22_final_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> sp22 </td>
+          <td class="center">
+            <a href="student-resources/exams/sp22_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp22_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/sp22_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp22_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/sp22_final_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp22_final_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> fa21 </td>
+          <td class="center">
+            <a href="student-resources/exams/fa21_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa21_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa21_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa21_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa21_final_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa21_final_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> sp21 </td>
+          <td class="center">
+            <a href="student-resources/exams/sp21_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp21_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/sp21_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp21_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/sp21_final_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp21_final_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> fa20 </td>
+          <td class="center">
+            <a href="student-resources/exams/fa20_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa20_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa20_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa20_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa20_final_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa20_final_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> su20 </td>
+          <td class="center">
+            <a href="student-resources/exams/su20_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/su20_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/su20_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/su20_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/su20_final_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/su20_final_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> sp20 </td>
+          <td class="center">
+            <a href="student-resources/exams/sp20_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp20_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/sp20_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp20_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/sp20_final_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp20_final_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> fa19 </td>
+          <td class="center">
+            <a href="student-resources/exams/fa19_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa19_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa19_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa19_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa19_final_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa19_final_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> sp19 </td>
+          <td class="center">
+            <a href="student-resources/exams/sp19_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp19_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/sp19_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp19_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/sp19_final_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp19_final_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> fa18 </td>
+          <td class="center">
+            <a href="student-resources/exams/fa18_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa18_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa18_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa18_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa18_final_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa18_final_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> sp18 </td>
+          <td class="center">
+            <a href="student-resources/exams/sp18_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp18_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/sp18_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp18_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/sp18_final_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp18_final_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> fa17 </td>
+          <td class="center">
+            <a href="student-resources/exams/fa17_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa17_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa17_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa17_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa17_final_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa17_final_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> su17 </td>
+          <td class="center">
+            <a href="student-resources/exams/su17_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/su17_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/su17_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/su17_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+
+
+
+            N/A
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> sp17 </td>
+          <td class="center">
+            <a href="student-resources/exams/sp17_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp17_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/sp17_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp17_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+
+
+
+            N/A
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> fa16 </td>
+          <td class="center">
+            <a href="student-resources/exams/fa16_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa16_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa16_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa16_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa16_final_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa16_final_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> sp16 </td>
+          <td class="center">
+            <a href="student-resources/exams/sp16_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp16_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/sp16_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp16_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/sp16_final_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp16_final_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> fa15 </td>
+          <td class="center">
+            <a href="student-resources/exams/fa15_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa15_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa15_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa15_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/fa15_final_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/fa15_final_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="center"> sp15 </td>
+          <td class="center">
+            <a href="student-resources/exams/sp15_mt1_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp15_mt1_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/sp15_mt2_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp15_mt2_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+          <td class="center">
+            <a href="student-resources/exams/sp15_final_exam.pdf" target="_blank">pdf</a>, <a href="student-resources/exams/sp15_final_sol.pdf" target="_blank">sol</a>
+
+
+
+          </td>
+        </tr>
+      </tbody>
+    </table>
