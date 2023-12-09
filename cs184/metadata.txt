@@ -1,5 +1,4 @@
 Course Number: CS 184
-
 Course Title: Computer Graphics and Imaging
-
 Course Website: https://cs184.eecs.berkeley.edu/sp23
+Exam Prepend: https://cs184.eecs.berkeley.edu/sp23

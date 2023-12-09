@@ -1,5 +1,4 @@
 Course Number: CS 88
-
 Course Title: Computational Structures in Data Science
-
 Course Website: https://hkn.eecs.berkeley.edu/exams/course/cs/88
+Exam Prepend: https://hkn.eecs.berkeley.edu/

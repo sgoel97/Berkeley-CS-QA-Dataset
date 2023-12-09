@@ -1,5 +1,4 @@
 Course Number: CS 169
-
 Course Title: Software Engineering
-
 Course Website: https://hkn.eecs.berkeley.edu/exams/course/cs/169
+Exam Prepend: https://hkn.eecs.berkeley.edu/

@@ -1,0 +1,94 @@
+class Particle:
+    
+    def __init__(self, name, charge, mass):
+        self.name, self.charge, self.mass = name, charge, mass
+        
+class NuclearReaction:
+    
+    def __init__(self, name, reactants, products):
+        self.name, self.reactants, self.products = name, reactants, products
+        
+    def conserves_charge(self):
+        return sum([p.charge for p in self.reactants]) == sum([p.charge for p in self.products])
+    
+class NuclearReactor:
+    
+    def __init__(self, name):
+        self.name = name
+        self.succesful_reactions = set()
+        self.available_particles = {}
+    
+    def add_reaction(self, reaction):
+        if not reaction.conserves_charge():
+            return f"{reaction.name} does not conserve charge — failed to add."
+        
+        for p in reaction.reactants:
+                if p.name not in self.available_particles or self.available_particles[p.name] <= 0:
+                    return f"Not enough {p.name} for this reaction."
+                self.available_particles[p.name] -= 1
+                     
+        for p in reaction.products:
+            self.add_particle(p)
+        
+        self.succesful_reactions.add(reaction.name)
+    
+    def add_particle(self, particle, amount=1):
+        self.available_particles[particle.name] = self.available_particles.get(particle.name, 0) + amount
+        
+def doctester():
+    """ 
+    DUMMY function to run doctests.
+    
+    >>> p = Particle("proton", +1, 1)
+    >>> n = Particle("neutron", 0, 1)
+    >>> e = Particle("electron", -1, 0)
+    >>> d = Particle("deuteron", +1, 2)
+    
+    >>> (e.name, e.charge, e.mass) == ("electron", -1, 0)
+    True
+    
+    >>> fusion = NuclearReaction("fusion", [p, n], [d])
+    >>> [r.name for r in fusion.reactants]
+    ['proton', 'neutron']
+    >>> [p.name for p in fusion.products]
+    ['deuteron']
+    
+    >>> fusion.conserves_charge() # total charge of reactants and products is the same.
+    True
+    
+    >>> bad_reaction = NuclearReaction("bad", [p, e], [d])
+    >>> x = bad_reaction.conserves_charge()
+    >>> print(x) # +1 -1 != +1
+    False
+    
+    >>> reactor = NuclearReactor("Manhattan Project")
+    >>> reactor.add_particle(p)
+    >>> reactor.add_particle(n)
+    >>> reactor.add_reaction(fusion)
+    >>> reactor.add_reaction(bad_reaction)
+    'bad does not conserve charge — failed to add.'
+    
+    
+    # Add some more particles
+    >>> reactor.add_particle(p, 10)  # Add 10 protons
+    >>> reactor.add_particle(n, 5)  # Add 5 neutrons
+    >>> reactor.add_particle(d)  # Add 1 deuteron
+    
+    
+    >>> alpha_p = Particle("alpha", +2, 4)
+    >>> nucleus_U238 = Particle("U238", +92, 238)
+    >>> nucleus_U234 = Particle("U234", +90, 234)
+    
+    >>> alpha_decay = NuclearReaction("alpha decay", [nucleus_U238], [nucleus_U234, alpha_p])
+    >>> reactor.add_reaction(alpha_decay) # We need the reactants!
+    'Not enough U238 for this reaction.'
+    
+    >>> reactor.available_particles
+    {'proton': 10, 'neutron': 5, 'deuteron': 2}
+    
+    >>> reactor.add_reaction(fusion)
+    >>> reactor.succesful_reactions
+    {'fusion'}
+    """
+    return "IGNORE ME"
+        

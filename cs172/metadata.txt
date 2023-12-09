@@ -1,5 +1,4 @@
 Course Number: CS 172
-
 Course Title: Computability and Complexity
-
 Course Website: https://hkn.eecs.berkeley.edu/exams/course/cs/172
+Exam Prepend: https://hkn.eecs.berkeley.edu/

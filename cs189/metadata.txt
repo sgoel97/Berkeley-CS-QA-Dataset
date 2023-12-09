@@ -1,5 +1,4 @@
 Course Number: CS 189
-
 Course Title: Introduction to Machine Learning
-
 Course Website: https://eecs189.org/
+Exam Prepend: https://eecs189.org/

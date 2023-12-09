@@ -1,5 +1,4 @@
 Course Number: EECS 70
-
 Course Title: Discrete Mathematics and Probability Theory
-
 Course Website: https://www.eecs70.org/
+Exam Prepend: https://www.eecs70.org/

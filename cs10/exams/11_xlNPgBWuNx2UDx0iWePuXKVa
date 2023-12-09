@@ -1,0 +1,40 @@
+def truth_table(n):
+    """
+    INPUT: `n` is an integer >= 1. 
+    OUTPUT: A list of lists of Booleans. 
+    
+    Each sub-list represents one row of a truth table with  `n` boolean variables.
+    
+    There should be a total of `2 ** n` inner lists, each containing `n` items, representing
+    the value of each of the `n` variables. There is no column for the output, since there is
+    no boolean expression to evaluate. 
+    
+    >>> test_one = truth_table(1)
+    >>> result_one = [[False], [True]]
+    >>> type(test_one) is list and len(test_one) == 2 ** 1
+    True
+    >>> all([item in result_one for item in test_one])
+    True
+    
+    >>> test_two = truth_table(3)
+    >>> result_two = [[False, False, False], [True, False, False], [False, True, False], [False, False, True], [True, True, False], [True, False, True], [False, True, True], [True, True, True]]
+    >>> type(test_two) is list and len(test_two) == 2 ** 3
+    True
+    >>> all([item in result_two for item in test_two])
+    True
+    
+    """
+    if n == 1:
+        return [[False], [True]]
+    
+    recurse = truth_table(n-1)
+    
+    res = []
+    for row in recurse:
+        add_true = row + [True]
+        add_false = row + [False]
+        res.append(add_true)
+        res.append(add_false)
+    
+    return res
+    

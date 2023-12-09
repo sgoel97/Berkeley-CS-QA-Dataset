@@ -1,5 +1,4 @@
 Course Number: CS 10
-
 Course Title: The Beauty and Joy of Computing
-
 Course Website: https://cs10.org/fa23/
+Exam Prepend: https://cs10.org/fa23/

@@ -1,5 +1,4 @@
 Course Number: CS 162
-
 Course Title: Operating Systems and System Programming
-
 Course Website: https://cs162.org/
+Exam Prepend: https://cs162.org/

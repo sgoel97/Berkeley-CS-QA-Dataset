@@ -1,0 +1,580 @@
+CS 164  Programming Languages and Compilers                        Handout 8
+
+                                 Midterm I
+
+
+o Please read all instructions (including these) carefully.
+
+o There are six questions on the exam, each worth between 15 and  30 points.
+  You have 3 hours to work on the exam.
+
+o The exam  is  closed book,  but  you  may refer  to  your four  sheets  of
+  prepared notes.
+
+o Please write your answers in the  space provided on the exam, and  clearly
+  mark your solutions.  You may  use the backs of the exam pages as  scratch
+  paper.  Please do not use any additional scratch paper.
+
+o Solutions will  be  graded on  correctness  and clarity.    There  are  no
+  ``tricky'' problems  on the exam---each  problem has  a relatively  simple
+  and straightforward  solution.   You  may get  as few  as 0  points for  a
+  question if your solution is far more complicated than necessary.
+
+
+             NAME:   _______________________________________________
+
+
+       SID or SS#:   _______________________________________________
+
+
+
+
+
+                       |_Problem_|Max_points_|Points_|_
+                       |____1____|___15_____|_______|
+                       |____2____|___15_____|_______|
+                       |____3____|___20_____|_______|
+                       |____4____|___20_____|_______|
+                       |____5____|___30_____|_______|
+                       |____6____|___30_____|_______|_
+                       |__TOTAL__|___130____|_______|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fall 95                                                         page 1  of 8
+ CS 164  Programming Languages and Compilers                        Handout 8
+
+1. Regular Expressions  (15  points)  The following  description  of  integer
+   constants in C++ appears on page 480 of ``The C++ Programming Language.''
+
+
+      An  integer constant consisting of a sequence  of digits is taken to
+     be decimal  (base  ten) unless  it begins  with 0  (digit  zero).   A
+     sequence of digits  starting with 0  is taken to  be an octal integer
+     (base eight).  The  digits 8 and 9 are not  octal digits.  A sequence
+     of digits preceded by  0x or 0X is taken  to be a hexadecimal integer
+     (base sixteen).   The hexadecimal digits include a  or A through f or
+     F : ::.   The  type of  an integer  depends on  its :: :suffix.   [An
+     integer may have no  suffix.]  : ::If [the  integer] is suffixed by u
+     or U,  its type  is :: :.   If  it is  suffixed by  l or L,  its type
+     is :: :.   [Either or both  suffixes may appear at  most once each in
+     either order.]
+
+
+   Give a  regular  expression for  C++  integer constants.    Use  only  the
+   operations  +,  *,  and  concatenation  in  your  expression  (no  special
+   flex notation).    You  may also  use  parentheses and  ffl (which  are  not
+   operations).   For convenience,  you may  name a regular  expression R  by
+   writing name= R.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Fall 95                                                         page 2  of 8
+ CS 164  Programming Languages and Compilers                        Handout 8
+
+2. Finite Automata and Regular Expressions (15 points)
+   For each  of the  following finite  automata, give  an equivalent  regular
+   expression.  Clearly mark  your answer to each part.   As in the  previous
+   problem, use only the basic regular expression notation.
+
+   (a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   (b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   (c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Fall 95                                                         page 3  of 8
+ CS 164  Programming Languages and Compilers                        Handout 8
+
+3. Grammars (20 points)
+   Give a context-free grammar for each of the following languages.
+
+
+ (a) Any string of x's followed by an equal number of y's.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (b) Any string  of x's of  length n followed  by a string  of y's of  length
+     2n+ 1, for any n0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (c) Any string of x's and y's with an equal number of x's and y's.   The x's
+     and y's may appear in any order.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Fall 95                                                         page 4  of 8
+ CS 164  Programming Languages and Compilers                        Handout 8
+
+4. Top-Down Parsing (20 points)
+   Consider the following  grammar for a  subset of English  sentences.   The
+   nonterminals are S; NP;VP;AP.   The  terminals are  the, noun,  adjective,
+   verb.  The start symbol is S.
+
+                               S  !  NP VP
+                                  |  NP VP NP
+
+                              NP  !  the AP noun
+                              AP  !  AP adjective
+                                  |  ffl
+                              VP  !  verb
+
+
+   Give an LL(1) grammar  that generates the  same language as this  grammar.
+   Show the parsing table for the grammar you produce.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Fall 95                                                         page 5  of 8
+ CS 164  Programming Languages and Compilers                        Handout 8
+
+5. LALR Parsing and Conflicts (30 points)
+   Consider the  following DFA of  LR(1) items  for a  LALR(1) parser.    The
+   states are  numbered;  refer to  these numbers  where appropriate  in  the
+   following questions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Fall 95                                                         page 6  of 8
+CS 164  Programming Languages and Compilers                        Handout 8
+
+(a) Give the grammar used in constructing the DFA.
+
+
+
+
+
+
+
+
+
+
+(b) Show that the grammar is ambiguous.
+
+
+
+
+
+
+
+
+
+
+(c) Which of the  following strings are  viable prefixes?   For each  string
+    that is a viable prefix, give a suffix that produces a  right sentential
+    form.
+
+
+  i.  S
+
+
+ ii.  + S +
+
+
+iii.  S +  id :=
+
+
+
+(d) Which states of  the DFA have conflicts  and of what kind  (shift-reduce
+    or reduce-reduce)?  Be  sure to state clearly the cause of the  conflict
+    in each case.
+
+
+
+
+
+
+
+(e) Which conflicts should be resolved in which way to give the  := operator
+
+
+
+
+
+
+
+Fall 95                                                         page 7  of 8
+CS 164  Programming Languages and Compilers                        Handout 8
+
+    higher precedence than +?
+
+
+
+
+
+
+
+(f) Which conflicts should be resolved in which way to cause the  + operator
+    to associate to the right?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fall 95                                                         page 8  of 8
+ CS 164  Programming Languages and Compilers                        Handout 8
+
+6. Error Recovery (30 points)
+   This problem uses  the same DFA as  the previous problem.   You will  need
+   to refer to that DFA again to  answer the parts of this question.   Assume
+   that any shift/reduce conflicts are resolved in favor of reducing.
+
+
+ (a) Consider the string
+                               id :=  string string
+     Show the sequence of configurations of the LALR(1) parsing algorithm  as
+     it parses  this string  according to the  DFA of  the previous  problem.
+     Indicate exactly where the error is detected.
+
+
+
+
+
+
+
+
+ (b) Consider a new  action panic N  t, where  N is a  non-terminal and t  is
+     a terminal.   The meaning of the  action is to push  N on the stack  and
+     discard all  input tokens up  to, but  not including,  the next t.    If
+     there is no  next t,  then N is  pushed on the  stack and all  remaining
+     input is  discarded.   Assume we want  the parser to  take action  panic
+     S +  whenever it  is in  configuration S+ #w and  the first  token of  w
+     is erroneous.   Which entries  in the action table  should have panic  S
+     +?   (You do  not need  to give the  entire action table  to answer  the
+     question; just indicate  which entries have the new  action.)  Show  the
+     sequence of configurations of the parser on input
+
+                                  id+ :=id ++id
+
+
+
+
+
+
+
+
+
+
+ (c) Consider a  new action insert  t where  t is  a terminal.   The  meaning
+     of the  action is  to insert  t before  the next  input token  (i.e.,  t
+     becomes the next  input).   Give insert actions  that implement each  of
+     the following local recovery strategies.   Be sure to say which  entries
+     in the action table have the insert actions.
+
+
+
+   i.  If  the input  contains an  id  followed by  a  string, insert  an  :=
+       between them.
+
+
+
+
+ Fall 95                                                         page 9  of 8
+CS 164  Programming Languages and Compilers                        Handout 8
+
+ ii.  If the  input contains  two consecutive  strings, insert  a +  between
+      them.
+
+
+
+
+iii.  If the input contains a  string followed by an id, insert a +  between
+      them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fall 95                                                        page 10  of 8

@@ -1,5 +1,4 @@
 Course Number: CS 61B
-
 Course Title: Data Structures
-
 Course Website: https://fa23.datastructur.es/
+Exam Prepend: https://fa23.datastructur.es/

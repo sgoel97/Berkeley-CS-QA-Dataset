@@ -1,0 +1,101 @@
+Comments on your solutions, and
+Sketch of some answers to exam1.  Really you should go to
+section to discuss any questions you have on the material.
+
+1a. The terminal symbols are  = id int + [ ] and maybe $
+
+
+1.b A language is infinite if its grammar is
+recursive, AND that recursion generates an infinite set
+of terminal symbols.  E->ET, E->id, T->
+does the job.  If you have a rule X->X that makes
+an infinite number of derivations, but does not affect
+the language.
+
+
+1d. Left recursion; also it needs factoring.
+1e. first, follow and the LL table can be computed by
+programs in the file firstfoll.cl
+
+1f. 
+(defparameter 
+    bettergrammmar
+    '((S -> H $)
+      (H -> lval = E)
+      (E -> id T)  ;different
+      (E -> int T) ;different
+      ;(E -> E T)  ; deleted
+      (T -> + E)
+      (T -> )
+      (lval -> id B) ;different. left factor
+      (B ->  [ E ]) ;new
+      (B -> )  ;new
+      ))
+2. 
+a. Syntax directed parser generation is the process of
+taking a grammar for a language and automatically producing
+a parsing program from that specification.
+b. CFG is a 4-tuple of (stuff..) used to define a language.
+You did not get credit for "a language" or "rules".
+c. An NFA is a DFA which can optionally have epsilon
+transitions or multiple transitions out of a state with
+the same label.
+d. Leftmost derivation is a derivation in which the
+leftmost nonterminal is rewritten each step.
+
+Many many people seemed to ignore the specification
+"Complete English Sentence".   This is not an attempt
+to force you to write beautiful prose.  It is meant
+to encourage you write complete declarative statements. 
+
+3.   L1= epsilon a b bb bbb bbbb ...
+     L2= epsilon a b  <all 2 and 3 combinations except bab> <all 4 combs except those with
+         2 non-adjacent b's> ...
+     L3= epsilon   <all combinations> ..  (A*B*)*  is all strings over {a,b}.
+ b.  R=Q* for some other reg. expression  is a pretty general answer.
+ c. QQ*  or Q+
+
+4. draw transition from a state S to state A  on input a.  etc.
+   A finite state machine cannot recognize the grammar in the very next question.
+    S-> aSb | c
+
+5. 
+
+A  common (and correct) answer was
+(defun s()(case (car tokens)
+           (a (eat 'a)(s) (eat 'b))
+           (c (eat 'c))
+            (otherwise (eat 'a))) ;make an error
+
+An even shorter one is
+
+(defun s()(cond ((eq (car tokens) 'a) (eat 'a)(s)(eat 'b))
+                (t (eat 'c))))
+;;figure out why this is equivalent.
+;; and even briefer yet
+
+(defun s()(or (and (eq (car tokens) 'a) (eat 'a)(s)(eat 'b)))
+               (eat 'c))
+
+6.
+(id abc_def (1 . 7)) 
+(iconst 123 (1 . 11))
+ (sconst "abddef" (1 . 27)) or maybe "abd def" depending on your lexer
+ (if if (1 . 30))
+ (|(| |(| (1 . 45))
+ (sconst "world" (1 . 53))
+ (|)| |)| (1 . 54))
+ (+ + (1 . 55)) 
+(iconst 2 (1 . 56)) 
+(*eof* *eof* (2 . 1))  ;; or thereabouts.  Also error, *eof* iside comment.  NO foo.
+
+7.  This is exactly the same as our text, page 64 with the minor
+change that we replaced T by P and we replaced + by x.
+
+
+
+
+
+
+
+
