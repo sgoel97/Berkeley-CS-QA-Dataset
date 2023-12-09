@@ -1,0 +1,542 @@
+<table id="exams" class="table current">
+    <tbody><tr>
+      <th>Semester</th>
+      <th>Instructor</th>
+      <th>Midterm 1</th>
+      <th>Midterm 2</th>
+      <th>Midterm 3</th>
+      <th>Final</th>
+    </tr>
+    <tr>
+      <td>
+	Spring 2016
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Staff,The">The Staff</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp16_mt1.pdf">[pdf]</a>
+    <a href="/examfiles/cs172_sp16_mt1_sol.pdf">[solution]</a>
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp16_mt2.pdf">[pdf]</a>
+    <a href="/examfiles/cs172_sp16_mt2_sol.pdf">[solution]</a>
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp16_f.pdf">[pdf]</a>
+    <a href="/examfiles/cs172_sp16_f_sol.pdf">[solution]</a>
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Fall 2013
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Sen,Koushik">Koushik Sen</a>
+      </td>
+	<td>
+    
+    <a href="/examfiles/cs172_fa13_mt1_sol.pdf">[solution]</a>
+
+      </td>
+	<td>
+    
+    <a href="/examfiles/cs172_fa13_mt2_sol.pdf">[solution]</a>
+
+      </td>
+	<td>
+    
+    <a href="/examfiles/cs172_fa13_mt3_sol.pdf">[solution]</a>
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Spring 2010
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Seshia,Sanjit">Sanjit Seshia</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp10_mt1.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp10_mt2.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp10_f.pdf">[pdf]</a>
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Spring 2008
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Seshia,Sanjit">Sanjit Seshia</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp08_mt1.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp08_mt2.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp08_f.pdf">[pdf]</a>
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Spring 2007
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Trevisan,Luca">Luca Trevisan</a>
+      </td>
+	<td>
+    
+    <a href="/examfiles/cs172_sp07_mt1_sol.pdf">[solution]</a>
+
+      </td>
+	<td>
+    
+    <a href="/examfiles/cs172_sp07_mt2_sol.pdf">[solution]</a>
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Fall 2006
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Seshia,Sanjit">Sanjit Seshia</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs172_fa06_mt1.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_fa06_mt2.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Fall 2005
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Trevisan,Luca">Luca Trevisan</a>
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_fa05_mt2.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Fall 2004
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Sinclair,Alistair">Alistair Sinclair</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs172_fa04_mt1.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_fa04_mt2.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Spring 2001
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Vazirani,Umesh">Umesh Vazirani</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp01_mt1.pdf">[pdf]</a>
+    <a href="/examfiles/cs172_sp01_mt1_sol.pdf">[solution]</a>
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp01_mt2.pdf">[pdf]</a>
+    <a href="/examfiles/cs172_sp01_mt2_sol.pdf">[solution]</a>
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp01_f.pdf">[pdf]</a>
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Fall 2000
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Henzinger,Thomas%20A.">Thomas A. Henzinger</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs172_fa00_mt1.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_fa00_mt2.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Spring 2000
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Henzinger,Thomas%20A.">Thomas A. Henzinger</a>
+      </td>
+	<td>
+    
+    <a href="/examfiles/cs172_sp00_mt1_sol.pdf">[solution]</a>
+
+      </td>
+	<td>
+    
+    <a href="/examfiles/cs172_sp00_mt2_sol.pdf">[solution]</a>
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp00_f.pdf">[pdf]</a>
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Fall 1999
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Jordan,Michael">Michael Jordan</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs172_fa99_mt1.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Spring 1999
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Blum,Manuel">Manuel Blum</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp99_mt1.pdf">[pdf]</a>
+    <a href="/examfiles/cs172_sp99_mt1_sol.pdf">[solution]</a>
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp99_mt2.pdf">[pdf]</a>
+    <a href="/examfiles/cs172_sp99_mt2_sol.pdf">[solution]</a>
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    <a href="/examfiles/cs172_sp99_f_sol.pdf">[solution]</a>
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Fall 1997
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Henzinger,Thomas%20A.">Thomas A. Henzinger</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs172_fa97_mt1.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_fa97_mt2.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_fa97_f.pdf">[pdf]</a>
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Spring 1997
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Henzinger,Thomas%20A.">Thomas A. Henzinger</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp97_mt1.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Fall 1995
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Sinclair,Alistair">Alistair Sinclair</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs172_fa95_mt1.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_fa95_mt2.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Fall 1994
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Wolfe,David">David Wolfe</a>
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_fa94_mt2.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_fa94_mt3.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Fall 1993
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Wolfe,David">David Wolfe</a>
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_fa93_f.pdf">[pdf]</a>
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Spring 1993
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Wolfe,David">David Wolfe</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp93_mt1.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp93_mt2.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp93_mt3.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    <a href="/examfiles/cs172_sp93_f.pdf">[pdf]</a>
+    
+
+      </td>
+    </tr>
+  </tbody></table>

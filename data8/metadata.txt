@@ -1,0 +1,5 @@
+Course Number: Data 8
+
+Course Title: Foundations of Data Science
+
+Course Website: https://www.data8.org/fa23/

@@ -1,0 +1,122 @@
+<table id="exams" class="table current">
+    <tbody><tr>
+      <th>Semester</th>
+      <th>Instructor</th>
+      <th>Midterm 1</th>
+      <th>Midterm 2</th>
+      <th>Midterm 3</th>
+      <th>Final</th>
+    </tr>
+    <tr>
+      <td>
+	Fall 2009
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Necula,George">George Necula</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs169_fa09_mt1.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Fall 2005
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Bodik,Ras">Ras Bodik</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs169_fa05_mt1.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Fall 2004
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Necula,George">George Necula</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs169_fa04_mt1.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Fall 2002
+      </td>
+      <td>
+	<a href="/coursesurveys/instructor/Aiken,Alexander">Alexander Aiken</a>
+      </td>
+	<td>
+    <a href="/examfiles/cs169_fa02_mt1.pdf">[pdf]</a>
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+	<td>
+    
+    
+
+      </td>
+    </tr>
+  </tbody></table>

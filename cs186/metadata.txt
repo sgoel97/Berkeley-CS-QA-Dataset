@@ -1,0 +1,5 @@
+Course Number: CS 186
+
+Course Title: Introduction to Database Systems
+
+Course Website: https://cs186berkeley.net/

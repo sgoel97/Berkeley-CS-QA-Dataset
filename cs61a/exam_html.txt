@@ -1,0 +1,889 @@
+<table class="table table-striped table-bordered">
+    <thead class="thead-default">
+      <tr>
+        <th>Semester</th><th>Midterm 1</th><th>Midterm 2</th><th>Final</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Summer 2023</td><td>N/A</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/su23/midterm/61a-su23-midterm.pdf">Exam</a></li>
+<li><a href="/exam/su23/midterm/61a-su23-midterm_sol.pdf">Solutions</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/su23/final/61a-su23-final.pdf">Exam</a></li>
+<li><a href="/exam/su23/final/61a-su23-final_sol.pdf">Solutions</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Spring 2023</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp23/mt1/61a-sp23-mt1.pdf">Exam</a></li>
+<li><a href="/exam/sp23/mt1/61a-sp23-mt1_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZeKzOT5MaEyKpizylO9N5-j" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp23/mt2/61a-sp23-mt2.pdf">Exam</a></li>
+<li><a href="/exam/sp23/mt2/61a-sp23-mt2_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZenSsdPn9cE8-OOM3nGcg5V" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp23/final/61a-sp23-final.pdf">Exam</a></li>
+<li><a href="/exam/sp23/final/61a-sp23-final_sol.pdf">Solutions</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Fall 2022</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa22/mt1/61a-fa22-mt1.pdf">Exam</a></li>
+<li><a href="/exam/fa22/mt1/61a-fa22-mt1_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZcljOPD9iZ_MfYOw8Rj6OGF" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa22/mt2/61a-fa22-mt2.pdf">Exam</a></li>
+<li><a href="/exam/fa22/mt2/61a-fa22-mt2_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZcAajfg4WZT-DyuhXMlR_hJ" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa22/final/61a-fa22-final.pdf">Exam</a></li>
+<li><a href="/exam/fa22/final/61a-fa22-final_sol.pdf">Solutions</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Summer 2022</td><td>N/A</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/su22/midterm/61a-su22-midterm.pdf">Exam</a></li>
+<li><a href="/exam/su22/midterm/61a-su22-midterm_sol.pdf">Solutions</a></li>
+<li><a href="https://youtube.com/playlist?list=PLx38hZJ5RLZfeW1X624X1e84omx8jW8AO" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/su22/final/61a-su22-final.pdf">Exam</a></li>
+<li><a href="/exam/su22/final/61a-su22-final_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/watch?v=LL1bXnXUCDw&amp;list=PLx38hZJ5RLZeib1HUBVTSu_WIROx-PwqU" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Spring 2022</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp22/mt1/61a-sp22-mt1.pdf">Exam</a></li>
+<li><a href="/exam/sp22/mt1/61a-sp22-mt1_sol.pdf">Solutions</a></li>
+<li><a href="/exam/sp22/mt1/guide/" class="label label-outline">Guide</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp22/mt2/61a-sp22-mt2.pdf">Exam</a></li>
+<li><a href="/exam/sp22/mt2/61a-sp22-mt2_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZeGQnUK0owWz4G1YE6gfogG" class="label label-outline" target="_blank">Video</a></li>
+<li><a href="/exam/sp22/mt2/guide/" class="label label-outline">Guide</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp22/final/61a-sp22-final.pdf">Exam</a></li>
+<li><a href="/exam/sp22/final/61a-sp22-final_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/watch?v=m7pjJF5pv3Q&amp;list=PLx38hZJ5RLZcLcdouGzJwEtPLLIshVM23" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Fall 2021</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa21/mt1/61a-fa21-mt1.pdf">Exam</a></li>
+<li><a href="/exam/fa21/mt1/61a-fa21-mt1_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZfyDHKL8BChcCOAk6bx80fQ" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa21/mt2/61a-fa21-mt2.pdf">Exam</a></li>
+<li><a href="/exam/fa21/mt2/61a-fa21-mt2_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZcwZ1N5xCL2y48ca2U9dbw5" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa21/final/61a-fa21-final.pdf">Exam</a></li>
+<li><a href="/exam/fa21/final/61a-fa21-final_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/watch?v=oDvlzCAedt4&amp;list=PLx38hZJ5RLZdqzIVxJ_gTbtHchjBNaw9N" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Summer 2021</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/su21/diagnostic/61a-su21-diagnostic.pdf">Exam</a></li>
+<li><a href="/exam/su21/diagnostic/61a-su21-diagnostic_sol.pdf">Solutions</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/su21/midterm/61a-su21-midterm.pdf">Exam</a></li>
+<li><a href="/exam/su21/midterm/61a-su21-midterm_sol.pdf">Solutions</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/su21/final/61a-su21-final.pdf">Exam</a></li>
+<li><a href="/exam/su21/final/61a-su21-final_sol.pdf">Solutions</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Spring 2021</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp21/mt1/61a-sp21-mt1.pdf">Exam</a></li>
+<li><a href="/exam/sp21/mt1/61a-sp21-mt1_sol.pdf">Solutions</a></li>
+<li><a href="/exam/sp21/mt1/guide/" class="label label-outline">Guide</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp21/mt2/61a-sp21-mt2.pdf">Exam</a></li>
+<li><a href="/exam/sp21/mt2/61a-sp21-mt2_sol.pdf">Solutions</a></li>
+<li><a href="/exam/sp21/mt2/guide/" class="label label-outline">Guide</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp21/final/61a-sp21-final.pdf">Exam</a></li>
+<li><a href="/exam/sp21/final/61a-sp21-final_sol.pdf">Solutions</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Fall 2020</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa20/mt1/61a-fa20-mt1.pdf">Exam</a></li>
+<li><a href="/exam/fa20/mt1/61a-fa20-mt1_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZfootmDorSVuITpvz84d4NH" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa20/mt2/61a-fa20-mt2.pdf">Exam</a></li>
+<li><a href="/exam/fa20/mt2/61a-fa20-mt2_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZfXnYIh5Uq10IVRMExMX2qJ" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa20/final/61a-fa20-final.pdf">Exam</a></li>
+<li><a href="/exam/fa20/final/61a-fa20-final_sol.pdf">Solutions</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Summer 2020</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/su20/mt1/61a-su20-mt1.zip">Exam</a></li>
+<li><a href="/exam/su20/mt1/61a-su20-mt1_sol.zip">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZcw5FXtcXCJNzDS68a418q6" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/su20/mt2/61a-su20-mt2.zip">Exam</a></li>
+<li><a href="/exam/su20/mt2/61a-su20-mt2_sol.zip">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZfIiLQm5sH8Lo4PNAqftImh" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/su20/final/61a-su20-final.zip">Exam</a></li>
+<li><a href="/exam/su20/final/61a-su20-final_sol.zip">Solutions</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Spring 2020</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp20/mt1/61a-sp20-mt1.pdf">Exam</a></li>
+<li><a href="/exam/sp20/mt1/61a-sp20-mt1_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/sp20/mt1/61a-sp20-mt1_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/watch?v=5_tYJ_MLnUk&amp;list=PLx38hZJ5RLZdIj6oz-_19DDDUd_4yBduR" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp20/mt2/61a-sp20-mt2.zip">Exam</a></li>
+<li><a href="/exam/sp20/mt2/61a-sp20-mt2_sol.zip">Solutions</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp20/final/61a-sp20-final.pdf">Exam</a></li>
+<li><a href="/exam/sp20/final/61a-sp20-final_sol.pdf">Solutions</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Fall 2019</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa19/mt1/61a-fa19-mt1.pdf">Exam</a></li>
+<li><a href="/exam/fa19/mt1/61a-fa19-mt1_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/fa19/mt1/61a-fa19-mt1_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZdKFYrZmsH44VBWjyG045Tn" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa19/mt2/61a-fa19-mt2.pdf">Exam</a></li>
+<li><a href="/exam/fa19/mt2/61a-fa19-mt2_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/fa19/mt2/61a-fa19-mt2_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZdHxEDnfbr8bWjHHtPKga5l" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa19/final/61a-fa19-final.pdf">Exam</a></li>
+<li><a href="/exam/fa19/final/61a-fa19-final_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/fa19/final/61a-fa19-final_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZdUVNbANsBdXhuGFvzg38hK" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Summer 2019</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/su19/mt/61a-su19-mt.pdf">Exam</a></li>
+<li><a href="/exam/su19/mt/61a-su19-mt_sol.pdf">Solutions</a></li>
+</ul>
+
+</span>
+</td><td>N/A</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/su19/final/61a-su19-final.pdf">Exam</a></li>
+<li><a href="/exam/su19/final/61a-su19-final_sol.pdf">Solutions</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Spring 2019</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp19/mt1/61a-sp19-mt1.pdf">Exam</a></li>
+<li><a href="/exam/sp19/mt1/61a-sp19-mt1_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/sp19/mt1/61a-sp19-mt1_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZe387LY1OHG16GGRuzjm-Z5" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp19/mt2/61a-sp19-mt2.pdf">Exam</a></li>
+<li><a href="/exam/sp19/mt2/61a-sp19-mt2_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZfc_GLsjI9PgQR10iTctKtd" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp19/final/61a-sp19-final.pdf">Exam</a></li>
+<li><a href="/exam/sp19/final/61a-sp19-final_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZfKhr-cbXFEgKZxR1j-ZL74" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Fall 2018</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa18/mt1/61a-fa18-mt1.pdf">Exam</a></li>
+<li><a href="/exam/fa18/mt1/61a-fa18-mt1_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/fa18/mt1/61a-fa18-mt1_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/watch?v=Lhknr3OaSII&amp;list=PLx38hZJ5RLZfUw2ZrsMBwNZwB2uuis45_" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa18/mt2/61a-fa18-mt2.pdf">Exam</a></li>
+<li><a href="/exam/fa18/mt2/61a-fa18-mt2_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/fa18/mt2/61a-fa18-mt2_sol.pdf">Solutions</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="https://inst.eecs.berkeley.edu/~cs61a/fa18/assets/pdfs/61a-fa18-final.pdf" target="_blank">Exam</a></li>
+<li><a href="/exam/fa18/final/61a-fa18-final_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/fa18/final/61a-fa18-final_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZfpnEP8XQlzw7FITCWa9SK2" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Summer 2018</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="https://inst.eecs.berkeley.edu/~cs61a/su18/assets/pdfs/61a-su18-mt.pdf" target="_blank">Exam</a></li>
+<li><a href="https://inst.eecs.berkeley.edu/~cs61a/su18/assets/pdfs/61a-su18-mt-sol.pdf" target="_blank">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZfdahFUqu69nu9UgBV4z3nB" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>N/A</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="https://inst.eecs.berkeley.edu/~cs61a/su18/assets/pdfs/61a-su18-final.pdf" target="_blank">Exam</a></li>
+<li><a href="https://inst.eecs.berkeley.edu/~cs61a/su18/assets/pdfs/61a-su18-final-sol.pdf" target="_blank">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZcZIDvrREXbcov7YKANkACr" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Spring 2018</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp18/mt1/61a-sp18-mt1.pdf">Exam</a></li>
+<li><a href="/exam/sp18/mt1/61a-sp18-mt1_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/sp18/mt1/61a-sp18-mt1_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZeOlFXcB3uxwyAONB4PAMeX" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp18/mt2/61a-sp18-mt2.pdf">Exam</a></li>
+<li><a href="/exam/sp18/mt2/61a-sp18-mt2_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/sp18/mt2/61a-sp18-mt2_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZcnCCRrb_pYP8Kkj7LD3kcZ" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="https://inst.eecs.berkeley.edu/~cs61a/sp18/assets/pdfs/61a-sp18-final.pdf" target="_blank">Exam</a></li>
+<li><a href="/exam/sp18/final/61a-sp18-final_tagged.pdf">Tagged</a></li>
+<li><a href="https://inst.eecs.berkeley.edu/~cs61a/sp18/assets/pdfs/61a-sp18-final-solution.pdf" target="_blank">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZdvBn4qwCYCIrswUaztzOh8" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Fall 2017</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa17/mt1/61a-fa17-mt1.pdf">Exam</a></li>
+<li><a href="/exam/fa17/mt1/61a-fa17-mt1_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/fa17/mt1/61a-fa17-mt1_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZdgmyWAXB2Cf9u7YCNomQ0k" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa17/mt2/61a-fa17-mt2.pdf">Exam</a></li>
+<li><a href="/exam/fa17/mt2/61a-fa17-mt2_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/fa17/mt2/61a-fa17-mt2_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZfRvZkVSEQAHzWsGai2rXHk" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="https://inst.eecs.berkeley.edu/~cs61a/fa17/assets/pdfs/61a-fa17-final.pdf" target="_blank">Exam</a></li>
+<li><a href="/exam/fa17/final/61a-fa17-final_tagged.pdf">Tagged</a></li>
+<li><a href="https://inst.eecs.berkeley.edu/~cs61a/fa17/assets/pdfs/61a-fa17-final-solution.pdf" target="_blank">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZcKnjvoIPAEE_tlu1Uzqs0W" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Summer 2017</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/su17/assets/pdfs/61a-su17-mt.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/su17/assets/pdfs/61a-su17-mt-sol.pdf" target="_blank">Solutions</a></li>
+</ul>
+
+</span>
+</td><td>N/A</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/su17/assets/pdfs/61a-su17-final.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/su17/assets/pdfs/61a-su17-final-sol.pdf" target="_blank">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZeSgOBCJfj5kEz7rtd-1tBY" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Spring 2017</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp17/mt1/61a-sp17-mt1.pdf">Exam</a></li>
+<li><a href="/exam/sp17/mt1/61a-sp17-mt1_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/sp17/mt1/61a-sp17-mt1_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/watch?v=jpMbbX_Y9JI&amp;list=PLx38hZJ5RLZcE2me-MuYoImYBnZ6VdF4_" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp17/mt2/61a-sp17-mt2.pdf">Exam</a></li>
+<li><a href="/exam/sp17/mt2/61a-sp17-mt2_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/sp17/mt2/61a-sp17-mt2_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZeFksPxdA7g5pHokNE05etx" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/sp17/assets/pdfs/61a-sp17-final.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/sp17/assets/pdfs/61a-sp17-final-solution.pdf" target="_blank">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZdsacWqsctTW6Gz1CO0vARU" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Fall 2016</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa16/mt1/61a-fa16-mt1.pdf">Exam</a></li>
+<li><a href="/exam/fa16/mt1/61a-fa16-mt1_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/fa16/mt1/61a-fa16-mt1_sol.pdf">Solutions</a></li>
+<li><a href="https://youtu.be/BOdHs66jFzU?list=PLx38hZJ5RLZdXAypyZ7D9NSuAZHt55IQP" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/fa16/mt2/61a-fa16-mt2.pdf">Exam</a></li>
+<li><a href="/exam/fa16/mt2/61a-fa16-mt2_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/fa16/mt2/61a-fa16-mt2_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/watch?v=mfuq7fR-rpY&amp;list=PLx38hZJ5RLZc8e46JGtPFxsDho-dbrPjO" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/fa16/assets/pdfs/61a-fa16-final.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/fa16/assets/pdfs/61a-fa16-final-solution.pdf" target="_blank">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLBrTifeSts38EZx9ogCiHlBYm8ey_mV6i" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Summer 2016</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/su16/assets/pdfs/61a-su16-mt.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/su16/assets/pdfs/61a-su16-mt-solution.pdf" target="_blank">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL9QS7y7LRkIWxE25yPz7WrGJhCN1Mmwzl" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>N/A</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/su16/assets/pdfs/61a-su16-final.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/su16/assets/pdfs/61a-su16-final-solution.pdf" target="_blank">Solutions</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Spring 2016</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="/exam/sp16/mt1/61a-sp16-mt1.pdf">Exam</a></li>
+<li><a href="/exam/sp16/mt1/61a-sp16-mt1_tagged.pdf">Tagged</a></li>
+<li><a href="/exam/sp16/mt1/61a-sp16-mt1_sol.pdf">Solutions</a></li>
+<li><a href="https://www.youtube.com/watch?v=UvgDQVYJHOE" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/sp16/assets/pdfs/61a-sp16-mt2.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/sp16/assets/pdfs/61a-sp16-mt2-solution.pdf" target="_blank">Solutions</a></li>
+<li><a href="https://www.youtube.com/watch?v=0TkYl4jnFlk" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/sp16/assets/pdfs/61a-sp16-final.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/sp16/assets/pdfs/61a-sp16-final-soln.pdf" target="_blank">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZcADzsy4UGPpa3UhHi3R632" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Fall 2015</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/fa15/assets/pdfs/61a-fa15-mt1.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/fa15/assets/pdfs/61a-fa15-mt1-solution.pdf" target="_blank">Solutions</a></li>
+<li><a href="https://www.youtube.com/watch?v=ge2ntLbsl74" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/fa15/assets/pdfs/61a-fa15-mt2.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/fa15/assets/pdfs/61a-fa15-mt2-solution.pdf" target="_blank">Solutions</a></li>
+<li><a href="https://www.youtube.com/watch?v=CDZoklstkxs" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/fa15/assets/pdfs/61a-fa15-final.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/fa15/assets/pdfs/61a-fa15-final-solution.pdf" target="_blank">Solutions</a></li>
+<li><a href="https://www.youtube.com/watch?v=N3WWzfNCyf4" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Summer 2015</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="https://inst.eecs.berkeley.edu/~cs61a/su15/assets/pdfs/61a-su15-mt1.pdf" target="_blank">Exam</a></li>
+<li><a href="https://inst.eecs.berkeley.edu/~cs61a/su15/assets/pdfs/61a-su15-mt1-sol.pdf" target="_blank">Solutions</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="https://inst.eecs.berkeley.edu/~cs61a/su15/assets/pdfs/61a-su15-mt2.pdf" target="_blank">Exam</a></li>
+<li><a href="https://inst.eecs.berkeley.edu/~cs61a/su15/assets/pdfs/61a-su15-mt2-sol.pdf" target="_blank">Solutions</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="https://inst.eecs.berkeley.edu/~cs61a/su15/assets/pdfs/61a-su15-final.pdf" target="_blank">Exam</a></li>
+<li><a href="https://inst.eecs.berkeley.edu/~cs61a/su15/assets/pdfs/61a-su15-final-sol.pdf" target="_blank">Solutions</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Spring 2015</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/sp15/assets/pdfs/61a-sp15-mt1.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/sp15/assets/pdfs/61a-sp15-mt1-solution.pdf" target="_blank">Solutions</a></li>
+<li><a href="http://youripark.github.io/midterm1sp15.html" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/sp15/assets/pdfs/61a-sp15-mt2.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/sp15/assets/pdfs/61a-sp15-mt2-solution.pdf" target="_blank">Solutions</a></li>
+<li><a href="http://youripark.github.io/midterm2sp15.html" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/sp15/assets/pdfs/61a-sp15-final.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/sp15/assets/pdfs/61a-sp15-final-solution.pdf" target="_blank">Solutions</a></li>
+<li><a href="https://www.youtube.com/watch?v=3pp4JyrVBPU" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Fall 2014</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/fa14/assets/pdfs/61a-fa14-mt1.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/fa14/assets/pdfs/61a-fa14-mt1-solution.pdf" target="_blank">Solutions</a></li>
+<li><a href="http://youripark.github.io/midterm1.html" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/fa14/assets/pdfs/61a-fa14-mt2.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/fa14/assets/pdfs/61a-fa14-mt2-solution.pdf" target="_blank">Solutions</a></li>
+<li><a href="http://youripark.github.io/midterm2.html" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="http://inst.eecs.berkeley.edu/~cs61a/fa14/assets/pdfs/61a-fa14-final.pdf" target="_blank">Exam</a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs61a/fa14/assets/pdfs/61a-fa14-final-solution.pdf" target="_blank">Solutions</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL58JJZMb2CHZZ5htepJ4xOPRjJmu7Gmkl" class="label label-outline" target="_blank">Video</a></li>
+</ul>
+
+</span>
+</td></tr>
+<tr><td>Pre-2014</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="https://tbp.berkeley.edu/courses/cs/61A/" target="_blank">Archive</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="https://tbp.berkeley.edu/courses/cs/61A/" target="_blank">Archive</a></li>
+</ul>
+
+</span>
+</td><td>
+<span class="">
+
+
+<ul class="list-inline">
+  <li><a href="https://tbp.berkeley.edu/courses/cs/61A/" target="_blank">Archive</a></li>
+</ul>
+
+</span>
+</td></tr>
+    </tbody>
+  </table>

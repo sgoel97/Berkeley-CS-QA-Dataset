@@ -1,0 +1,162 @@
+<table>
+<thead>
+  <tr>
+    <th>Semester</th>
+    <th colspan="2">Midterm 1<br></th>
+    <th colspan="2">Midterm 2</th>
+    <th colspan="2">Final</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Fall 2023</td>
+    <td><a href="https://assets.cs161.org/exams/fa23/fa23mt.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa23/fa23mtsolutions.pdf">Solutions</a></td>
+    <td colspan="2" rowspan="11">As of SU20, CS 161 no<br>longer had a Midterm 2.</td>
+    <td></td>
+    <td></td>
+ </tr>
+  <tr>
+    <td>Summer 2023</td>
+    <td><a href="https://assets.cs161.org/exams/su23/su23mt.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/su23/su23mtsolutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/su23/su23final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/su23/su23finalsolutions.pdf">Solutions</a></td>
+ </tr>
+  <tr>
+    <td>Spring 2023</td>
+    <td><a href="https://assets.cs161.org/exams/sp23/sp23mt.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp23/sp23mtsolutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp23/sp23final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp23/sp23finalsolutions.pdf">Solutions</a></td>
+ </tr>
+  <tr>
+    <td>Fall 2022</td>
+    <td><a href="https://assets.cs161.org/exams/fa22/fa22mt1.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa22/fa22mt1solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa22/fa22final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa22/fa22finalsolutions.pdf">Solutions</a></td>
+ </tr>
+  <tr>
+    <td>Summer 2022</td>
+    <td><a href="https://assets.cs161.org/exams/su22/su22mt.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/su22/su22mtsolutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/su22/su22final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/su22/su22finalsolutions.pdf">Solutions</a></td>
+  </tr>
+  <tr>
+    <td>Spring 2022</td>
+    <td><a href="https://assets.cs161.org/exams/sp22/sp22mt.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp22/sp22mtsolutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp22/sp22final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp22/sp22finalsolutions.pdf">Solutions</a></td>
+  </tr>
+  <tr>
+    <td>Fall 2021</td>
+    <td><a href="https://assets.cs161.org/exams/fa21/fa21mt1.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa21/fa21mt1solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa21/fa21final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa21/fa21finalsolutions.pdf">Solutions</a></td>
+  </tr>
+  <tr>
+    <td>Summer 2021</td>
+    <td><a href="https://assets.cs161.org/exams/su21/su21mt.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/su21/su21mtsolutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/su21/su21final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/su21/su21finalsolutions.pdf">Solutions</a></td>
+  </tr>
+  <tr>
+    <td>Spring 2021</td>
+    <td><a href="https://assets.cs161.org/exams/sp21/sp21mt.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp21/sp21mtsolutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp21/sp21final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp21/sp21finalsolutions.pdf">Solutions</a></td>
+  </tr>
+  <tr>
+    <td>Fall 2020</td>
+    <td><a href="https://assets.cs161.org/exams/fa20/fa20mt.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa20/fa20mtsolutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa20/fa20final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa20/fa20finalsolutions.pdf">Solutions</a></td>
+  </tr>
+  <tr>
+    <td>Summer 2020</td>
+    <td><a href="https://assets.cs161.org/exams/su20/su20mt.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/su20/su20mtsolutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/su20/su20final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/su20/su20finalsolutions.pdf">Solutions</a></td>
+  </tr>
+  <tr>
+    <td>Spring 2020</td>
+    <td><a href="https://assets.cs161.org/exams/sp20/sp20mt1.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp20/sp20mt1solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp20/sp20mt2.pdf)<br">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp20/sp20mt2solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp20/sp20final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp20/sp20finalsolutions.pdf">Solutions</a></td>
+  </tr>
+  <tr>
+    <td>Spring 2019</td>
+    <td><a href="https://assets.cs161.org/exams/sp19/sp19mt1.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp19/sp19mt1solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp19/sp19mt2.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp19/sp19mt2solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp19/sp19final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp19/sp19finalsolutions.pdf">Solutions</a></td>
+  </tr>
+  <tr>
+    <td>Fall 2018</td>
+    <td><a href="https://assets.cs161.org/exams/fa18/fa18mt1.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa18/fa18mt1solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa18/fa18mt2.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa18/fa18mt2solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa18/fa18final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa18/fa18finalsolutions.pdf">Solutions</a></td>
+  </tr>
+  <tr>
+    <td>Spring 2018</td>
+    <td><a href="https://assets.cs161.org/exams/sp18/sp18mt1.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp18/sp18mt1solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp18/sp18mt2.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp18/sp18mt2solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp18/sp18final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp18/sp18finalsolutions.pdf">Solutions</a></td>
+  </tr>
+  <tr>
+    <td>Fall 2017</td>
+    <td><a href="https://assets.cs161.org/exams/fa17/fa17mt1.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa17/fa17mt1solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa17/fa17mt2.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa17/fa17mt2solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa17/fa17final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa17/fa17finalsolutions.pdf">Solutions</a></td>
+  </tr>
+  <tr>
+    <td>Spring 2017</td>
+    <td><a href="https://assets.cs161.org/exams/sp17/sp17mt1.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp17/sp17mt1solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp17/sp17mt2.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp17/sp17mt2solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp17/sp17final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp17/sp17finalsolutions.pdf">Solutions</a></td>
+  </tr>
+  <tr>
+    <td>Fall 2016</td>
+    <td><a href="https://assets.cs161.org/exams/fa16/fa16mt1.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa16/fa16mt1solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa16/fa16mt2.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa16/fa16mt2solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa16/fa16final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/fa16/fa16finalsolutions.pdf">Solutions</a></td>
+  </tr>
+  <tr>
+    <td>Spring 2016</td>
+    <td><a href="https://assets.cs161.org/exams/sp16/sp16mt1.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp16/sp16mt1solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp16/sp16mt2.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp16/sp16mt2solutions.pdf">Solutions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp16/sp16final.pdf">Questions</a></td>
+    <td><a href="https://assets.cs161.org/exams/sp16/sp16finalsolutions.pdf">Solutions</a></td>
+  </tr>
+</tbody>
+</table>

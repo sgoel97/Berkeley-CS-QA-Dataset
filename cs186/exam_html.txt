@@ -1,0 +1,37 @@
+
+<table>
+  <thead>
+    <tr>
+      <th>Semester</th>
+      <th>Midterm 1</th>
+      <th>Midterm 2</th>
+      <th>Final</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Spring 2023</td>
+      <td><a href="https://drive.google.com/file/d/1a6LKRAgQ1Rci3i7WoRoghV_SxMt_dMv2/view?usp=sharing">Exam</a> <a href="https://drive.google.com/file/d/1UHFrzKPVbSDl2PcrsCIIdTYEXawU7T-g/view?usp=sharing">(Solutions)</a></td>
+      <td><a href="https://drive.google.com/file/d/1PJlgoOoy38Escrh4iCOsKL6RV3jEEtcj/view?usp=sharing">Exam</a> <a href="https://drive.google.com/file/d/1dT_ZSScbU9NdbVI7Qxcw03X7gWQDfCeD/view?usp=sharing">(Solutions)</a></td>
+      <td><a href="https://drive.google.com/file/d/1Dd03C6o-CNzstYrl9bkm1ictr9FiHulr/view?usp=sharing">Exam</a> <a href="https://drive.google.com/file/d/113BmMcZsLNE57fBsMNVbFzXzzq6Jy-iI/view?usp=sharing">(Solutions)</a></td>
+    </tr>
+    <tr>
+      <td>Fall 2022</td>
+      <td><a href="https://drive.google.com/file/d/1dzDRPF86UKYepnqMiYVtP1wcwHVjf8MC/view?usp=sharing">Exam</a> <a href="https://drive.google.com/file/d/1gKK8Ybkjs4PcIkq_CEard4xU2U22rjl3/view?usp=sharing">(Solutions)</a></td>
+      <td><a href="https://drive.google.com/file/d/1rnX2qJSUTAaaJ82txtXOzRSXardrWdvp/view?usp=sharing">Exam</a> <a href="https://drive.google.com/file/d/1DRmGS8Tb5XNZah7ng4eqrITiB-jgmYqZ/view?usp=sharing">(Solutions)</a></td>
+      <td><a href="https://drive.google.com/file/d/1aPOYNJQxhKdFFEqIwo06OuXwK1-EAwQ2/view?usp=sharing">Exam</a> <a href="https://drive.google.com/file/d/1daFBVrCR-GeacKUdthpvmhK2brhRXDm1/view?usp=sharing">(Solutions)</a></td>
+    </tr>
+    <tr>
+      <td>Spring 2022</td>
+      <td><a href="https://drive.google.com/file/d/1hlirSZnNJkN7Cn1oNn8P-aNtragPD8qp/view?usp=sharing">Quiz</a> <a href="https://drive.google.com/file/d/1LoOuWIxRvc8hqhITIjc43_qXsMk-gfQ6/view?usp=sharing">(Solutions)</a></td>
+      <td><a href="https://drive.google.com/file/d/11Gn-5J1bZX0Y_L5rMVRPZDWxK8vUsRy5/view?usp=sharing">Exam</a> <a href="https://drive.google.com/file/d/1QauY_aehkCplTzSeKcTQzzqfyRbJ5wRu/view?usp=sharing">(Solutions)</a></td>
+      <td><a href="https://drive.google.com/file/d/1ca63AsctsV9oVCqxC4moV-Hj_iwYrTBD/view?usp=sharing">Exam</a> <a href="https://drive.google.com/file/d/1MOU_Jt5sohbxquGn6QhqpwPOmnyADDci/view?usp=sharing">(Solutions)</a></td>
+    </tr>
+    <tr>
+      <td>Fall 2021</td>
+      <td><a href="https://drive.google.com/file/d/1ozoM-MCydDAubBBlhKtVt8U8irOJeE0q/view?usp=sharing">Exam</a> <a href="https://drive.google.com/file/d/1Y3t0O1vHkKX7Kpeh8eCrn89YdkI9V51f/view?usp=sharing">(Solutions)</a></td>
+      <td><a href="https://drive.google.com/file/d/1VV5cV_6NPtFPbHWK4t1oFoTz3br-yRC1/view?usp=sharing">Exam</a> <a href="https://drive.google.com/file/d/1s7N8aj2z3Cro9f00JwVlJ5es-pVULTXn/view?usp=sharing">(Solutions)</a> <a href="https://drive.google.com/drive/folders/1xvL-qzpFWQWqKRPX7hasZQ3ODpqYCw3r?usp=sharing">(Video)</a></td>
+      <td><a href="https://drive.google.com/file/d/16jk2rTZhSITCakzPhBgwSeee0CP8NrFd/view?usp=sharing">Exam</a> <a href="https://drive.google.com/file/d/1x1hEuMPJHoYi9B4fSRRBTAh06aYVNqAW/view?usp=sharing">(Solutions)</a></td>
+    </tr>
+  </tbody>
+</table>

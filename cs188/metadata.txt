@@ -1,0 +1,5 @@
+Course Number: CS 188
+
+Course Title: Introduction to Artificial Intelligence
+
+Course Website: https://inst.eecs.berkeley.edu/~cs188/fa23/

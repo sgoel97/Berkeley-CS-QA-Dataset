@@ -1,0 +1,5 @@
+Course Number: EECS 150
+
+Course Title: Components and Design Techniques for Digital Systems
+
+Course Website: https://hkn.eecs.berkeley.edu/exams/course/cs/150

@@ -1,0 +1,5 @@
+Course Number: CS 170
+
+Course Title: Efficient Algorithms and Intractable Problems
+
+Course Website: https://cs170.org/

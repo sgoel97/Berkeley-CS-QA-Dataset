@@ -1,0 +1,5 @@
+Course Number: Data 100
+
+Course Title: Principles and Techniques of Data Science
+
+Course Website: https://ds100.org/fa23/

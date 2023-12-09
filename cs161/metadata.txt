@@ -1,0 +1,5 @@
+Course Number: CS 161
+
+Course Title: Computer Security
+
+Course Website: https://fa23.cs161.org/

@@ -1,0 +1,437 @@
+
+<table class="table">
+      <thead>
+        <tr>
+          <th id="term"><strong>Term</strong></th>
+          <th id="instructor"><strong>Instructor</strong></th>
+          <th id="midterm-1"><strong>Midterm 1</strong></th>
+          <th id="midterm-2"><strong>Midterm 2</strong></th>
+          <th id="midterm-3"><strong>Midterm 3</strong></th>
+          <th id="final"><strong>Final</strong></th>
+        </tr>
+      </thead>
+      <tbody>
+      <!--
+      Here's a template
+      <tr>
+        <td>Semester</td>
+        <td>Instructor<td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr> -->
+      <tr>
+        <td headers="term">fa23</td>
+        <td headers="instructor">Crooks</td>
+        <td headers="midterm-1"><a href="static/exams/fa23-mt1.pdf">pdf</a> <a href="static/exams/fa23-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa23-mt2.pdf">pdf</a> <a href="static/exams/fa23-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3"></td>
+        <td headers="final"></td>
+        
+      </tr>
+      <tr>
+        <td headers="term">sp23</td>
+        <td headers="instructor">Kubiatowicz</td>
+        <td headers="midterm-1"><a href="static/exams/sp23-mt1.pdf">pdf</a> <a href="static/exams/sp23-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/sp23-mt2.pdf">pdf</a> <a href="static/exams/sp23-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3"><a href="static/exams/sp23-mt3.pdf">pdf</a> <a href="static/exams/sp23-mt3-solutions.pdf">sol</a></td>
+        <td headers="final"></td>
+        
+      </tr>
+      <tr>
+        <td headers="term">fa22</td>
+        <td headers="instructor">Crooks</td>
+        <td headers="midterm-1"><a href="static/exams/fa22-mt1.pdf">pdf</a> <a href="static/exams/fa22-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa22-mt2.pdf">pdf</a> <a href="static/exams/fa22-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3"></td>
+        <td headers="final"></td>
+        
+      </tr>
+      <tr>
+        <td headers="term">su22</td>
+        <td headers="instructor">Kumar/Zeng</td>
+        <td headers="midterm-1"><a href="static/exams/su22-mt1.pdf">pdf</a> <a href="static/exams/su22-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"></td>
+        <td headers="midterm-3"></td>
+        <td headers="final"><a href="static/exams/su22-final.pdf">pdf</a> <a href="static/exams/su22-final-solutions.pdf">sol</a></td>
+        
+      </tr>
+      <tr>
+        <td headers="term">sp22</td>
+        <td headers="instructor">Joseph/Kubiatowicz</td>
+        <td headers="midterm-1"><a href="static/exams/sp22-mt1.pdf">pdf</a> <a href="static/exams/sp22-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/sp22-mt2.pdf">pdf</a> <a href="static/exams/sp22-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3"><a href="static/exams/sp22-mt3.pdf">pdf</a> <a href="static/exams/sp22-mt3-solutions.pdf">sol</a></td>
+        <td headers="final">&nbsp;</td>
+        
+      </tr>
+      <tr>
+        <td headers="term">fa21</td>
+        <td headers="instructor">Stoica</td>
+        <td headers="midterm-1"><a href="static/exams/fa21-mt1.pdf">pdf</a> <a href="static/exams/fa21-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa21-mt2.pdf">pdf</a> <a href="static/exams/fa21-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3"><a href="static/exams/fa21-mt3.pdf">pdf</a> <a href="static/exams/fa21-mt3-solutions.pdf">sol</a></td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">su21</td>
+        <td headers="instructor">Kulkarni/Gokhale</td>
+        <td headers="midterm-1"><a href="static/exams/su21-mt1.pdf">pdf</a> <a href="static/exams/su21-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final"><a href="static/exams/su21-final.pdf">pdf</a> <a href="static/exams/su21-final-solutions.pdf">sol</a></td>
+      </tr>
+      <tr>
+        <td headers="term">sp21</td>
+        <td headers="instructor">Joseph/Crooks</td>
+        <td headers="midterm-1"><a href="static/exams/sp21-mt1.pdf">pdf</a> <a href="static/exams/sp21-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/sp21-mt2.pdf">pdf</a> <a href="static/exams/sp21-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3"><a href="static/exams/sp21-mt3.pdf">pdf</a> <a href="static/exams/sp21-mt3-solutions.pdf">sol</a></td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa20</td>
+        <td headers="instructor">Kubiatowicz</td>
+        <td headers="midterm-1"><a href="static/exams/fa20-mt1.pdf">pdf</a> <a href="static/exams/fa20-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa20-mt2.pdf">pdf</a> <a href="static/exams/fa20-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3"><a href="static/exams/fa20-mt3.pdf">pdf</a> <a href="static/exams/fa20-mt3-solutions.pdf">sol</a></td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">su20</td>
+        <td headers="instructor">Kumar</td>
+        <td headers="midterm-1"><a href="static/exams/su20-quiz1.pdf">pdf</a> <a href="static/exams/su20-quiz1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/su20-quiz2.pdf">pdf</a> <a href="static/exams/su20-quiz2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3"><a href="static/exams/su20-quiz3.pdf">pdf</a> <a href="static/exams/su20-quiz3-solutions.pdf">sol</a></td>
+        <td headers="final"><a href="static/exams/su20-final.pdf">pdf</a> <a href="static/exams/su20-final-solutions.pdf">sol</a></td>
+      </tr>
+      <tr>
+        <td headers="term">sp20</td>
+        <td headers="instructor">Kubiatowicz</td>
+        <td headers="midterm-1"><a href="static/exams/sp20-mt1.pdf">pdf</a> <a href="static/exams/sp20-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa19</td>
+        <td headers="instructor">Culler</td>
+        <td headers="midterm-1"><a href="static/exams/fa19-mt1.pdf">pdf</a> <a href="static/exams/fa19-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final"><a href="static/exams/fa19-final.pdf">pdf</a> <a href="static/exams/fa19-final-solutions.pdf">sol</a> <a href="static/exams/fa19-final-alt.pdf">alt-pdf</a> <a href="static/exams/fa19-final-alt-solutions.pdf">alt-sol</a></td>
+      </tr>
+      <tr>
+        <td headers="term">su19</td>
+        <td headers="instructor">Kolb</td>
+        <td headers="midterm-1"><a href="static/exams/su19-mt1.pdf">pdf</a> <a href="static/exams/su19-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp19</td>
+        <td headers="instructor">Kubiatowicz</td>
+        <td headers="midterm-1"><a href="static/exams/sp19-mt1.pdf">pdf</a> <a href="static/exams/sp19-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/sp19-mt2.pdf">pdf</a> <a href="static/exams/sp19-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3"><a href="static/exams/sp19-mt3.pdf">pdf</a> <a href="static/exams/sp19-mt3-solutions.pdf">sol</a></td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa18</td>
+        <td headers="instructor">Stoica</td>
+        <td headers="midterm-1"><a href="static/exams/fa18-mt1.pdf">pdf</a> <a href="static/exams/fa18-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa18-mt2.pdf">pdf</a> <a href="static/exams/fa18-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3"><a href="static/exams/fa18-mt3.pdf">pdf</a> <a href="static/exams/fa18-mt3-solutions.pdf">sol</a></td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp18</td>
+        <td headers="instructor">Joseph/Ragan-Kelley</td>
+        <td headers="midterm-1"><a href="static/exams/sp18-mt1.pdf">pdf</a> <a href="static/exams/sp18-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/sp18-mt2.pdf">pdf</a> <a href="static/exams/sp18-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3"><a href="static/exams/sp18-mt3.pdf">pdf</a> <a href="static/exams/sp18-mt3-solutions.pdf">sol</a></td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa17</td>
+        <td headers="instructor">Stoica</td>
+        <td headers="midterm-1"><a href="static/exams/fa17-mt1.pdf">pdf</a> <a href="static/exams/fa17-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa17-mt2.pdf">pdf</a> <a href="static/exams/fa17-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3"><a href="static/exams/fa17-mt3.pdf">pdf</a> <a href="static/exams/fa17-mt3-solutions.pdf">sol</a></td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp17</td>
+        <td headers="instructor">Stoica</td>
+        <td headers="midterm-1"><a href="static/exams/sp17-mt1.pdf">pdf</a> <a href="static/exams/sp17-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/sp17-mt2.pdf">pdf</a> <a href="static/exams/sp17-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3"><a href="static/exams/sp17-mt3.pdf">pdf</a> <a href="static/exams/sp17-mt3-solutions.pdf">sol</a></td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa16</td>
+        <td headers="instructor">Joseph</td>
+        <td headers="midterm-1"><a href="static/exams/fa16-mt1.pdf">pdf</a> <a href="static/exams/fa16-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa16-mt2.pdf">pdf</a> <a href="static/exams/fa16-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3"><a href="static/exams/fa16-mt3.pdf">pdf</a> <a href="static/exams/fa16-mt3-solutions.pdf">sol</a></td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp16</td>
+        <td headers="instructor">Joseph</td>
+        <td headers="midterm-1"><a href="static/exams/sp16-mt1.pdf">pdf</a> <a href="static/exams/sp16-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/sp16-mt2.pdf">pdf</a> <a href="static/exams/sp16-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa15</td>
+        <td headers="instructor">Kubiatowicz</td>
+        <td headers="midterm-1"><a href="static/exams/fa15-mt1.pdf">pdf</a> <a href="static/exams/fa15-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa15-mt2.pdf">pdf</a> <a href="static/exams/fa15-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp15</td>
+        <td headers="instructor">Kubiatowicz</td>
+        <td headers="midterm-1"><a href="static/exams/sp15-mt1.pdf">pdf</a> <a href="static/exams/sp15-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/sp15-mt2.pdf">pdf</a> <a href="static/exams/sp15-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa14</td>
+        <td headers="instructor">Culler</td>
+        <td headers="midterm-1"><a href="static/exams/fa14-mt1.pdf">pdf</a> <a href="static/exams/fa14-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa14-mt2.pdf">pdf</a> <a href="static/exams/fa14-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa13</td>
+        <td headers="instructor">Joseph</td>
+        <td headers="midterm-1"><a href="static/exams/fa13-mt1.pdf">pdf</a> <a href="static/exams/fa13-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa13-mt2.pdf">pdf</a> <a href="static/exams/fa13-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp13</td>
+        <td headers="instructor">Joseph</td>
+        <td headers="midterm-1"><a href="static/exams/sp13-mt1.pdf">pdf</a> <a href="static/exams/sp13-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa12</td>
+        <td headers="instructor">Stoica</td>
+        <td headers="midterm-1"><a href="static/exams/fa12-mt1.pdf">pdf</a> <a href="static/exams/fa12-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp12</td>
+        <td headers="instructor">Joseph/Stoica</td>
+        <td headers="midterm-1"><a href="static/exams/sp12-mt1.pdf">pdf</a> <a href="static/exams/sp12-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa11</td>
+        <td headers="instructor">Joseph/Stoica</td>
+        <td headers="midterm-1"><a href="static/exams/fa11-mt1.pdf">pdf</a> <a href="static/exams/fa11-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp11</td>
+        <td headers="instructor">Stoica</td>
+        <td headers="midterm-1"><a href="static/exams/sp11-mt1.pdf">pdf</a> <a href="static/exams/sp11-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa10</td>
+        <td headers="instructor">Kubiatowicz</td>
+        <td headers="midterm-1"><a href="static/exams/fa10-mt1.pdf">pdf</a> <a href="static/exams/fa10-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp10</td>
+        <td headers="instructor">Stoica</td>
+        <td headers="midterm-1"><a href="static/exams/sp10-mt1.pdf">pdf</a> <a href="static/exams/sp10-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa09</td>
+        <td headers="instructor">Kubiatowicz</td>
+        <td headers="midterm-1"><a href="static/exams/fa09-mt1.pdf">pdf</a> <a href="static/exams/fa09-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa08</td>
+        <td headers="instructor">Kubiatowicz</td>
+        <td headers="midterm-1"><a href="static/exams/fa08-mt1.pdf">pdf</a> <a href="static/exams/fa08-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa08-mt2.pdf">pdf</a> <a href="static/exams/fa08-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp08</td>
+        <td headers="instructor">Joseph</td>
+        <td headers="midterm-1"><a href="static/exams/sp08-mt1.pdf">pdf</a> <a href="static/exams/sp08-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/sp08-mt2.pdf">pdf</a> <a href="static/exams/sp08-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa07</td>
+        <td headers="instructor">Kubiatowicz</td>
+        <td headers="midterm-1"><a href="static/exams/fa07-mt1.pdf">pdf</a> <a href="static/exams/fa07-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa07-mt2.pdf">pdf</a> <a href="static/exams/fa07-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp07</td>
+        <td headers="instructor">Smith</td>
+        <td headers="midterm-1"><a href="static/exams/sp07-mt1.pdf">pdf</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa06</td>
+        <td headers="instructor">Kubiatowicz</td>
+        <td headers="midterm-1"><a href="static/exams/fa06-mt1.pdf">pdf</a> <a href="static/exams/fa06-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa06-mt2.pdf">pdf</a> <a href="static/exams/fa06-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp06</td>
+        <td headers="instructor">Joseph</td>
+        <td headers="midterm-1"><a href="static/exams/sp06-mt1.pdf">pdf</a> <a href="static/exams/sp06-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/sp06-mt2.pdf">pdf</a> <a href="static/exams/sp06-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa05</td>
+        <td headers="instructor">Kubiatowicz</td>
+        <td headers="midterm-1"><a href="static/exams/fa05-mt1.pdf">pdf</a> <a href="static/exams/fa05-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa05-mt2.pdf">pdf</a> <a href="static/exams/fa05-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa04</td>
+        <td headers="instructor">Smith</td>
+        <td headers="midterm-1"><a href="static/exams/fa04-mt1.pdf">pdf</a> <a href="static/exams/fa04-mt1-solutions.txt">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa04-mt1.pdf">pdf</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp04</td>
+        <td headers="instructor">Joseph</td>
+        <td headers="midterm-1"><a href="static/exams/sp04-mt1.pdf">pdf</a> <a href="static/exams/sp04-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa03</td>
+        <td headers="instructor">Smith</td>
+        <td headers="midterm-1"><a href="static/exams/fa03-mt1.pdf">pdf</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa03-mt2.pdf">pdf</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp03</td>
+        <td headers="instructor">Joseph</td>
+        <td headers="midterm-1"><a href="static/exams/sp03-mt1.pdf">pdf</a> <a href="static/exams/sp03-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/sp03-mt2.pdf">pdf</a> <a href="static/exams/sp03-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa02</td>
+        <td headers="instructor">Smith</td>
+        <td headers="midterm-1"><a href="static/exams/fa02-mt1-solutions.txt">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa02-mt2-solutions.txt">sol</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp02</td>
+        <td headers="instructor">Joseph</td>
+        <td headers="midterm-1"><a href="static/exams/sp02-mt1.pdf">pdf</a> <a href="static/exams/sp02-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa01</td>
+        <td headers="instructor">Smith</td>
+        <td headers="midterm-1"><a href="static/exams/fa01-mt1.pdf">pdf</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa01-mt2.pdf">pdf</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp01</td>
+        <td headers="instructor">Joseph</td>
+        <td headers="midterm-1"><a href="static/exams/sp01-mt1.pdf">pdf</a> <a href="static/exams/sp01-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa00</td>
+        <td headers="instructor">Smith</td>
+        <td headers="midterm-1"><a href="static/exams/fa00-mt1.pdf">pdf</a> <a href="static/exams/fa00-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa00-mt2.pdf">pdf</a> <a href="static/exams/fa00-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp00</td>
+        <td headers="instructor">Franklin</td>
+        <td headers="midterm-1"><a href="static/exams/sp00-mt1.pdf">pdf</a></td>
+        <td headers="midterm-2"><a href="static/exams/sp00-mt1.pdf">pdf</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">fa99</td>
+        <td headers="instructor">Joseph</td>
+        <td headers="midterm-1"><a href="static/exams/fa99-mt1.pdf">pdf</a> <a href="static/exams/fa99-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2"><a href="static/exams/fa99-mt2.pdf">pdf</a> <a href="static/exams/fa99-mt2-solutions.pdf">sol</a></td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="term">sp99</td>
+        <td headers="instructor">Joseph</td>
+        <td headers="midterm-1"><a href="static/exams/sp99-mt1.pdf">pdf</a> <a href="static/exams/sp99-mt1-solutions.pdf">sol</a></td>
+        <td headers="midterm-2">&nbsp;</td>
+        <td headers="midterm-3">&nbsp;</td>
+        <td headers="final">&nbsp;</td>
+      </tr>
+    </tbody>
+  </table>

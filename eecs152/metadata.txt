@@ -1,0 +1,5 @@
+Course Number: EECS 152
+
+Course Title: Computer Architecture and Engineering
+
+Course Website: https://inst.eecs.berkeley.edu/~cs152/sp23/
